@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 ;D
+
+🌱 I’m currently learning JavaScript, and working on little projects for practice.
+
+
 
 <!--
 **Fatin-Almalik/Fatin-Almalik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
